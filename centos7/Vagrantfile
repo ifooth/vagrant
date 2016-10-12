@@ -21,6 +21,6 @@ Vagrant.configure("2") do |config|
     vb.cpus = "2"
   end
 
-  config.vm.provision "shell", path: "https://github.com/ifooth/vagrant/blob/master/centos7/bootstrap.sh"
+  config.vm.provision "shell", path: "https://raw.githubusercontent.com/ifooth/vagrant/master/centos7/bootstrap.sh"
 
 end
