@@ -1,5 +1,4 @@
 #!/bin/bash
-su - root
 rm -rf /etc/yum.repos.d/*
 cp /vagrant/*repo /etc/yum.repos.d
 yum clean all
