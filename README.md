@@ -1,3 +1,10 @@
+Download Files
+==================
+VirtualBox https://www.virtualbox.org/wiki/Downloads
+Vagrant https://www.vagrantup.com/downloads.html
+SSH https://github.com/PowerShell/Win32-OpenSSH
+centos images http://cloud.centos.org/centos/7/vagrant/x86_64/images/
+
 Install VBoxGuestAdditions
 ===========================
 1. copy VBoxGuestAdditions.iso to vagrant folder
