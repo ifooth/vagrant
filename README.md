@@ -6,13 +6,13 @@ Vagrant https://www.vagrantup.com/downloads.html
 
 SSH https://github.com/PowerShell/Win32-OpenSSH
 
-centos images http://cloud.centos.org/centos/7/vagrant/x86_64/images/
+CentOS Vagrant Image http://cloud.centos.org/centos/7/vagrant/x86_64/images/
 
 
-Install VBoxGuestAdditions
+Install VBoxGuestAdditions And Provision Vagrant
 ===========================
 1. copy VBoxGuestAdditions.iso to vagrant folder
-2. download Vagrantfile to vagrnat folder
+2. download Vagrantfile to vagrant folder
 3. vagrant up
 4. vagrant provision
 
